@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "cardbrosgame5cd3b704": {}
+      },
+      "api": {
+        "cardbrosgame": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
