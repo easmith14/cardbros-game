@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyc78cdecdf5784-staging-50215-authRole",
+      "UnauthRoleArn": "arn:aws:iam::081965091105:role/amplify-amplifyc78cdecdf5784-staging-50215-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::081965091105:role/amplify-amplifyc78cdecdf5784-staging-50215-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplifyc78cdecdf5784-staging-50215-deployment",
+      "UnauthRoleName": "amplify-amplifyc78cdecdf5784-staging-50215-unauthRole",
+      "StackName": "amplify-amplifyc78cdecdf5784-staging-50215",
+      "StackId": "arn:aws:cloudformation:us-east-2:081965091105:stack/amplify-amplifyc78cdecdf5784-staging-50215/cd9178c0-81b5-11ed-b559-0a47fb030776",
+      "AmplifyAppId": "d1ogdbumkceghq"
+    },
+    "categories": {
+      "auth": {
+        "cardbrosgame5cd3b704": {}
+      }
+    }
+  }
+}
